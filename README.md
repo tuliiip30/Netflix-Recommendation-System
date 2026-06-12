@@ -179,9 +179,7 @@ Netflix-Recommendation-System
 │   └── Netflix_Recommendation_System_Presentation.pdf
 │
 ├── screenshots/
-│
-└── dashboard/
-    └── app.py
+
 ```
 
 ---
